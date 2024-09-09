@@ -2,7 +2,7 @@
   "name": "comely-io/data-types",
   "description": "PHP data types",
   "type": "library",
-  "homepage": "https://github.com/comely-io/data-types",
+  "homepage": "https://github.com/underworf/data-types",
   "license": "MIT",
   "authors": [
     {
