@@ -12,11 +12,12 @@
       "role": "Author"
     }
   ],
-  "require": {
-    "php": "^7.2",
-    "ext-bcmath": "*",
-    "ext-mbstring": "*"
-  },
+"require": {
+  "php": "^7.2 || ^8.3",
+  "ext-bcmath": "*",
+  "ext-mbstring": "*"
+}
+,
   "autoload": {
     "psr-4": {
       "Comely\\DataTypes\\": [
